@@ -11,4 +11,5 @@ setup(
         'scipy',
         'wheel',
     ],
+    python_requires='>=3.7'
 )
