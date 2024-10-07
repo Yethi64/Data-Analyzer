@@ -7,7 +7,7 @@ setup(
         'streamlit',
         'numpy',
         'pandas',
-        'matplotlib',
+        'matplotlib==3.6.3',
         'scipy',
         'wheel',
     ],
